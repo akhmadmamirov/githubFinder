@@ -20,6 +20,6 @@ Here's a walkthrough of implemented features:
 GIF created with Giphy 
 
 ## Live Website
-https://akhmadmamirov.github.io/gitHubFinder/
+https://akhmadmamirov.github.io/githubFinder/
 
 cc Akhmadillo Mamirov
